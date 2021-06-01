@@ -191,15 +191,26 @@ bring. Luckily, there is enough you can already do to improve the remote
 working life for you.
 
 [^1]: N. Bloom. To raise productivity, let more employees work from home.Harvard BusinessReview, January–February, 2014.
+
 [^2]: H. Bouziri, D. R. M. Smith, A. Descatha, W. Dab, and K. Jean. Working from homein the time of covid-19: how to best preserve occupational health?Occupational andEnvironmental Medicine, 77(7):509–510, 2020.[3]J. Butler and S. Jaffe. Challenges and gratitude: A diary study of software engineersworking from home during covid-19 pandemic. In2021 IEEE/ACM 43rd InternationalConference on Software Engineering: Software Engineering in Practice (ICSE-SEIP),pages 362–363. IEEE, 2021.4
+
 [^3]: J. Butler and S. Jaffe. Challenges and gratitude: A diary study of software engineersworking from home during covid-19 pandemic. In2021 IEEE/ACM 43rd InternationalConference on Software Engineering: Software Engineering in Practice (ICSE-SEIP),pages 362–363, 2021.
+
 [^4]: S. A. N. v. B. Daniel Russo, Paul H. P. Hanel. Predictors of well-being and productivityof software professionals during the covid-19 pandemic – a longitudinal study. 77(7):509–510, 2020.
+
 [^5]: A. Gorlick. The productivity pitfalls of working from home in the age of covid-19.Stanford News. March, 30:2020, 2020.
+
 [^6]: C. Ipsen, M. van Veldhoven, K. Kirchner, and J. P. Hansen. Six key advantages anddisadvantages of working from home in europe during covid-19.International Journalof Environmental Research and Public Health, 18(4), 2021.
+
 [^7]: M. Javad Koohsari, T. Nakaya, A. Shibata, K. Ishii, and K. Oka. Working from homeafter the covid-19 pandemic: Do company employees sit more and move less?Sustain-ability, 13(2), 2021.
+
 [^8]: A. Kramer and K. Z. Kramer. The potential impact of the covid-19 pandemic on oc-cupational status, work from home, and occupational mobility.Journal of VocationalBehavior, 119:103442, 2020.
+
 [^9]: E. M. Onyema, N. C. Eucheria, F. A. Obafemi, S. Sen, F. G. Atonye, A. Sharma, andA. O. Alsayed. Impact of coronavirus pandemic on education.Journal of Education andPractice, 11(13):108–121, 2020.
+
 [^10]: J. G. van Uffelen, J. Wong, J. Y. Chau, H. P. van der Ploeg, I. Riphagen, N. D. Gilson,N. W. Burton, G. N. Healy, A. A. Thorp, B. K. Clark, P. A. Gardiner, D. W. Dunstan,A. Bauman, N. Owen, and W. J. Brown. Occupational sitting and health risks: Asystematic review.American Journal of Preventive Medicine, 39(4):379–388, 2010.
+
 [^11]: E. Yamamura and Y. Tsustsui. The impact of closing schools on working from home dur-ing the covid-19 pandemic: evidence using panel data from japan.Review of Economicsof the Household, 19:1–20, 03 2021
+
 [^12]: https://getmibo.com/
 
